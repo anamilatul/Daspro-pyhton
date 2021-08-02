@@ -1,0 +1,11 @@
+minX = 0
+maxX = 0
+minY = 0
+maxY = 0
+playerX = 0
+playerY = 0
+cEnemies = 1
+enemiesPosX = []
+enemiesPosY = []
+goalX = 0
+goalY = 0

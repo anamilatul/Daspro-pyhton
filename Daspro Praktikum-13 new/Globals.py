@@ -1,0 +1,10 @@
+nm_mataKuliah = ""
+mataKuliah = []
+nilai_input = 0
+nilai = []
+nilai_huruf = ""
+huruf = []
+keterangan = 0
+keterangan_full = []
+ipk = 0
+ipk_keterangan = ""
